@@ -25,4 +25,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: 3.8-slim
+        tags: llk8999/django-base:3.8-slim
